@@ -1,10 +1,10 @@
 # Uptester
-An graphical Java-Fx tool witch checks for http/https servers hidden behind domains.
+A graphical Java-Fx tool witch checks for http/https servers hidden behind domains.
 
 is able to filter/sort results based on
 - response code
 - http 
-- ip addresse
+- ip address
 
 and save result data with
 
